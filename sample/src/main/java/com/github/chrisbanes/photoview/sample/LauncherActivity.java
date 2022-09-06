@@ -73,9 +73,6 @@ public class LauncherActivity extends AppCompatActivity {
                     case 3:
                         clazz = PicassoSampleActivity.class;
                         break;
-                    case 4:
-                        clazz = CoilSampleActivity.class;
-                        break;
                     case 5:
                         clazz = ActivityTransitionActivity.class;
                         break;
